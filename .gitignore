@@ -401,6 +401,6 @@ FodyWeavers.xsd
 *.sln.iml
 
 # Allow SDL third-party files
-!external/SDL3/include/**
-!external/lib/x64/*.lib
-!external/lib/x64/*.dll
+!SDL/lib/x64/*.lib
+!SDL/lib/x86/*.dll
+!SDL/include/SDL3/**
