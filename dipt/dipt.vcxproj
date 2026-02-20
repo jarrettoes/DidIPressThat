@@ -24,12 +24,8 @@
   <ItemGroup>
     <None Include="SDL\lib\x64\SDL3.dll" />
     <None Include="SDL\lib\x64\SDL3.pdb" />
-    <None Include="SDL\lib\x64\SDL3.dll" />
-    <None Include="SDL\lib\x64\SDL3.pdb" />
   </ItemGroup>
   <ItemGroup>
-    <Library Include="SDL\lib\x64\SDL3.lib" />
-    <Library Include="SDL\lib\x64\SDL3_test.lib" />
     <Library Include="SDL\lib\x64\SDL3.lib" />
     <Library Include="SDL\lib\x64\SDL3_test.lib" />
   </ItemGroup>
